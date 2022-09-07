@@ -1,0 +1,15 @@
+/* ----------- For screens 768px and larger ----------- */
+/*-----------Tablets -------*/
+@media (min-width:768px) {
+	body {
+    background: red;
+  }
+}
+/*-----------Desktops--------*/
+/* ----------- For screens 1200px wide and larger----------- */
+@media (min-width:1200px) {
+body {
+   background: purple;
+  }
+}
+
